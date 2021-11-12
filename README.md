@@ -1,5 +1,13 @@
-### Hi there! I am using GitHub 👋
+## Hi there! I'm Bagus 👋
 
+<a href="https://github.com/gusentanan">
+    <img src="https://komarev.com/ghpvc/?username=gusentanan">
+</a>
+
+________________
+### I'm currently interested in Android Mobile Apps Development
+- Originated from Denpasar, Bali.
+- Third year student at Computer Science Engineering, Udayana University.
 <!--
 **gusentanan/gusentanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
